@@ -8,11 +8,11 @@ header{
 .titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
 
 h1{
-  font-family: inherit; text-align: center; color:black; border: 10px solid #C9460E;
+  font-family: inherit; text-align: center; color:black;
 }
 
 p{
-  font-family: monospace; font-size: 30px; color: black; text-align: center; border: 10px solid #C7B704;
+  font-family: monospace; font-size: 30px; color: whith ; text-align: center;
 }
 
 ul {
@@ -21,6 +21,6 @@ font-size: 30px;
 }
 
 .logo{
-width: 15%;
-margin-left: 0%;
+width: 30%;
+margin-left: 30%;
 }
